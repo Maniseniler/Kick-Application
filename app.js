@@ -33,6 +33,9 @@ app.use('/api', tokenRoutes);
 const refreshTokenRoutes = require('./routes/refreshToken');
 app.use('/api', refreshTokenRoutes);
 
+const revokeTokenRoutes = require('./routes/revokeToken');
+app.use('/api', revokeTokenRoutes);
+
 const configRoutes = require('./routes/config');
 app.use('/api', configRoutes);
 
