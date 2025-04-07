@@ -12,8 +12,10 @@ A modern management interface for Kick.com bots with OAuth authentication and to
 
 ## Prerequisites
 
-- Node.js 16+
-- SQLite3
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![SQLite3]
 - Kick Developer Account ([Create one here](https://kick.com/developer))
 
 ### Key elements included:
