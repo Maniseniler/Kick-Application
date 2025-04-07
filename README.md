@@ -10,12 +10,16 @@ A modern management interface for Kick.com bots with OAuth authentication and to
 - 🤖 Bot command management system
 - 📊 Activity monitoring and analytics
 
-## Prerequisites
 
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
+
+## 🛠 Technology Stack
+
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js&style=for-the-badge)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-4.x-lightgrey?logo=express&style=for-the-badge)](https://expressjs.com)
+[![SQLite](https://img.shields.io/badge/SQLite-3-blue?logo=sqlite&style=for-the-badge)](https://sqlite.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![SQLite3]
 - Kick Developer Account ([Create one here](https://kick.com/developer))
 
 ### Key elements included:
