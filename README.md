@@ -2,8 +2,6 @@
 
 A modern management interface for Kick.com bots with OAuth authentication and token management.
 
-![Dashboard Preview](https://i.imgur.com/example.png) *(Replace with actual screenshot)*
-
 ## Features
 
 - 🛠️ Modern UI dashboard for bot management
@@ -26,15 +24,3 @@ A modern management interface for Kick.com bots with OAuth authentication and to
 4. **Structure Overview** - Helps new contributors navigate
 5. **Deployment Ready** - Includes production considerations
 6. **License Info** - MIT is developer-friendly
-
-To add screenshots:
-1. Take screenshots of your dashboard
-2. Upload to Imgur or GitHub issues
-3. Replace the placeholder URL
-
-Remember to:
-- Replace `yourusername` with your actual GitHub username
-- Update the disclaimer if needed
-- Add any additional features specific to your implementation
-
-This README presents your project professionally while maintaining security best practices.
